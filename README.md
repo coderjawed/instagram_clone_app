@@ -1,6 +1,6 @@
 # instagram_clone_app
 
-A new Flutter project.
+instagram clone app
 
 ## Getting Started
 
